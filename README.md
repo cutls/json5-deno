@@ -1,6 +1,7 @@
-# 5JNOS[WIP]
+# JSON5-deno[WIP]
 
 Deno-able JSON5 implementation from the official reference
+
 
 # JSON5 – JSON for Humans
 
