@@ -5,6 +5,22 @@ Deno-able JSON5 implementation from the official reference
 This is not originally made for Deno. So, it cannot pass the test.
 I only changed some files in `lib/*`, and not changed `lib/cli.js`, the command-line tool.
 
+```
+import JSON5 from 'https://cdn.jsdelivr.net/gh/cutls/json5-deno@0.0.1/lib/index.ts'
+
+const obj = JSON5.parse(
+	`
+    {
+        a: 'b',
+        c: 'd',
+        //comments
+    }    
+    `
+)
+console.log(obj)
+console.log(JSON5.stringify(obj))
+```
+
 **You should not use this package for production.**
 
 # JSON5 – JSON for Humans
