@@ -1,6 +1,6 @@
 // This is a generated file. Do not edit.
 {
-  name: 'json5',
+  name: 'json5-deno',
   version: '2.1.3',
   description: 'JSON for humans.',
   main: 'lib/index.js',

@@ -2,6 +2,10 @@
 
 Deno-able JSON5 implementation from the official reference
 
+This is not originally made for Deno. So, it cannot pass the test.
+I only changed some files in `lib/*`, and not changed `lib/cli.js`, the command-line tool.
+
+**You should not use this package for production.**
 
 # JSON5 – JSON for Humans
 
