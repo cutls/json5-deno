@@ -1,3 +1,7 @@
+# 5JNOS[WIP]
+
+Deno-able JSON5 implementation from the official reference
+
 # JSON5 – JSON for Humans
 
 [![Build Status](https://travis-ci.org/json5/json5.svg)][Build Status]
