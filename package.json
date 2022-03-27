@@ -48,7 +48,7 @@
   },
   "homepage": "http://json5.org/",
   "dependencies": {
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   },
   "devDependencies": {
     "core-js": "^2.6.5",
